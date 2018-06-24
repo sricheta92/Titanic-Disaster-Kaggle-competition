@@ -9,4 +9,4 @@ I used the Naive-Bayes and SVM algorithm to predict whether a passenger will sur
 ## Results
 
 Accuracy percentage achieved : 78%
-Ranked : 4537
+Ranked : 4537/11292
